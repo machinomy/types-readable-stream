@@ -14,9 +14,8 @@
   },
   "homepage": "https://github.com/machinomy/types-readable-stream#readme",
   "dependencies": {
-    "@machinomy/types-buffer": "^0.0.4",
     "@types/events": "^1.2.0",
-    "buffer": "^5.1.0",
+    "@types/node": "^9.6.2",
     "readable-stream": "^2.3.2"
   }
 }
