@@ -1,0 +1,22 @@
+{
+  "name": "@machinomy/types-readable-stream",
+  "version": "0.0.1",
+  "description": "TypeScript declaration for readable-stream",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machinomy/types-readable-stream.git"
+  },
+  "author": "Sergey Ukustov <sergey.ukustov@machinomy.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/machinomy/types-readable-stream/issues"
+  },
+  "homepage": "https://github.com/machinomy/types-readable-stream#readme",
+  "dependencies": {
+    "@machinomy/types-buffer": "^0.0.4",
+    "@types/events": "^1.2.0",
+    "buffer": "^5.1.0",
+    "readable-stream": "^2.3.2"
+  }
+}
